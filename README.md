@@ -8,18 +8,7 @@ Basic FAQs: Handles questions like "what's your name?" or "how are you?".
 Exit Functionality: Ends the conversation when the user says "bye" or "exit".
 Rule-Based Responses: Uses simple if-else logic for matching user input, no complex NLP required.
 Terminal-Based: Runs entirely in the command line for simplicity.
-Screenshots
-(Note: Since this is a terminal-based application, screenshots would show the command prompt window with example interactions. You can capture and add images here if desired. For now, here's a text-based example:)
 
-
-Copy code
-1Chatbot: Hello! I'm a simple chatbot. Type 'bye' to exit.
-2You: hello
-3Chatbot: Hello! How can I help you today?
-4You: what time is it?
-5Chatbot: The current time is 14:30:45.
-6You: bye
-7Chatbot: Goodbye! Have a great day!
 Setup Instructions
 Prerequisites
 Python 3.x installed on your system. Download from python.org if needed.
